@@ -26,5 +26,5 @@ http://localhost:3000/contact/ + _id <BR><BR>
   
 Get One Image<BR>
 GET Request <br>
-http://localhost:3000/uploads + fileName<BR>
+http://localhost:3000/uploads/ + fileName<BR>
 
