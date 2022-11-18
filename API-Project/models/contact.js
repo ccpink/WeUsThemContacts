@@ -1,6 +1,6 @@
 const mongoose = require("mongoose"); //import mongoose
 
-// tea schema
+// contact schema
 const ContactSchema = new mongoose.Schema({
     fName: String,
     lName: String,
