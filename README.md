@@ -9,14 +9,22 @@ the application using npm start <br>
 The following are the routes within the api
 
 Get All Contacts<BR>
-Get Request On <BR>
+GET Request <BR>
 http://localhost:3000/contact/ <BR><BR>
+  
 Delete One Contact<BR>
+DELETE Request <BR>
 http://localhost:3000/contact/ + _id <BR> <BR>
+  
 Update One Contact<BR>
+PUT Request <BR>
 http://localhost:3000/contact/ + _id <BR><BR>
+  
 Get One Contact<BR>
+GET Request <br>
 http://localhost:3000/contact/ + _id <BR><BR>
+  
 Get One Image<BR>
+GET Request <br>
 http://localhost:3000/uploads + fileName<BR>
 
